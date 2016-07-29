@@ -1,0 +1,3 @@
+Research at here: https://www.youtube.com/watch?v=tVZqxoesuko&list=PLE134D877783367C7&index=1
+So voi porject loginPHP, thi project nay day du hon, co them template breaking ...
+database:
